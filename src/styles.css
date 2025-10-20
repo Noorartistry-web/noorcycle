@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+:root{
+  --soft-lilac: #CDB4DB;
+  --deep-plum: #6A0572;
+  --mid-purple: #7F4CC1;
+  --bg: #F6F2FD;
+  --card: #FFFFFF;
+  --muted: #8C7B92;
+}
+body{font-family:Inter, system-ui, Arial; background:var(--bg); margin:0; color:#2b1b2d;}
